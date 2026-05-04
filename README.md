@@ -74,10 +74,10 @@ The collection **API_Testing** contains the following requests:
 ## 📸 Screenshots
 
 ### Postman Collection
-![Postman Collection](images/collection.png)
+![Postman Collection](images/Collection.png)
 
 ### Newman Run Report
-![Newman Report](images/report.png)
+![Newman Report](images/Newman_Report.png)
 
 ---
 
